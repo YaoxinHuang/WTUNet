@@ -6,6 +6,8 @@ We only release the files including main cores of WTUNet, since every other sing
 You can freely modify the parameters of WTUnet to adapt to your own work. 
 
 The only additional thing you should do is: use the following command to install python-lib.
-```python
-pip install pytorch_wavelets
 ```
+pip install pytorch_wavelets PyWavelets
+```
+## References
+Some of the codes are Copying from [WTConv](https://github.com/BGU-CS-VIL/WTConv).
